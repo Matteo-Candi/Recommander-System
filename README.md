@@ -1,3 +1,4 @@
 # Recommander-System
 
-Il progetto finale si trova nel file `progetto.ipynb`
+- `Progetto_Finale`: file con il progetto completo
+
